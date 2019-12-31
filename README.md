@@ -1,1 +1,4 @@
-# voting-information-project
+# Voting Information Project
+The two CSV files in this repository, addresses and precinct_polling_list, are simply fictitious addresses of voters and precincts respectively.  Although they are not entirely freeform addresses, they are not properly structured and require cleaning in order to complete this project.
+
+The primary goal is to merge addresses and precincts into a single table matching addresses to polling places.  The best way to do this is by creating a new ID (End ID) that matches the three digits following the hyphen in the Precinct ID column in the addresses table to the three digits following the hyphen in the Precinct column in the precincts table.  Because these three digits could be identical from one precinct to another, it will be necessary for a secondary identifier to be used, the column State.  A combination of two columns in one table used to uniquely identify is known as a composite key.
