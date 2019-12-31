@@ -6,4 +6,8 @@ The primary goal of this project is to merge addresses and precincts into a sing
 ## Using the Voting Information Project
 First, import the pandas library and the functions file.
 
+<img src="images/Screen Shot 2019-11-13 at 3.58.58 PM.png" width="310" height="23">
+
 Next, save the addresses and precinct_polling_list CSV files under the variables addresses and precincts respectively.
+
+<img src="images/Screen Shot 2019-11-13 at 3.58.58 PM.png" width="310" height="23">
