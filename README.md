@@ -6,8 +6,10 @@ The primary goal of this project is to merge addresses and precincts into a sing
 ## Using the Voting Information Project
 First, import the pandas library and the functions file.
 
-<img src="images/Screen Shot 2019-12-30 at 10.45.49 PM.png" width="300" height="30">
+<img src="images/Screen Shot 2019-12-30 at 10.45.49 PM.png" width="200" height="35">
 
 Next, save the addresses and precinct_polling_list CSV files under the variables addresses and precincts respectively.
 
-<img src="images/Screen Shot 2019-12-30 at 10.46.08 PM.png" width="300" height="30">
+<img src="images/Screen Shot 2019-12-30 at 10.46.08 PM.png" width="400" height="40">
+
+Continue to follow along with the code in the ipynb file. 
